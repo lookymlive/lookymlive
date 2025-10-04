@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lookym</h1>
 <h3 align="center">A passionate developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Lookym Live](https://github.com/lookymlive)
+- 🔭 I’m currently working on [Lookym](https://github.com/lookymlive)
 
 - 🌱 I’m currently learning **Frameworks de Frontend React,Vue**
 
